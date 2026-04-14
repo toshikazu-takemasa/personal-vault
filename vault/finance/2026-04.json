@@ -5,5 +5,12 @@
     "type": "expense",
     "category": "食費",
     "amount": 29229
+  },
+  {
+    "id": "1776176196898-o991z",
+    "date": "2026-04-14",
+    "type": "expense",
+    "category": "食費",
+    "amount": 244
   }
 ]

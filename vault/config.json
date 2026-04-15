@@ -51,11 +51,11 @@
   ],
   "dailyTasks": [
     { "id": "dt1", "title": "ウォーキング", "completed": false },
-    { "id": "dt1", "title": "メールチェック", "completed": false },
-    { "id": "dt1", "title": "副業確認", "completed": false },
-    { "id": "dt2", "title": "マネーフォワード", "completed": false },
-    { "id": "dt4", "title": "エクササイズ", "completed": false },
-    { "id": "dt5", "title": "読書または勉強", "completed": false }
+    { "id": "dt2", "title": "メールチェック", "completed": false },
+    { "id": "dt3", "title": "副業確認", "completed": false },
+    { "id": "dt4", "title": "マネーフォワード", "completed": false },
+    { "id": "dt5", "title": "エクササイズ", "completed": false },
+    { "id": "dt6", "title": "読書または勉強", "completed": false }
   ],
   "pillars": [
     { "id": "p1", "title": "扉は朝は開けて出る", "completed": false },

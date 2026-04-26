@@ -5,5 +5,12 @@
     "type": "expense",
     "category": "ガソリン代",
     "amount": 4083
+  },
+  {
+    "id": "1777210258291-3qtf8",
+    "date": "2026-04-26",
+    "type": "expense",
+    "category": "食費",
+    "amount": 9445
   }
 ]
